@@ -7,3 +7,5 @@ Create a single-page HTML CV to showcase your career history
 - **Favicon: **Add a favicon for your CV page.
 
 The structure of your CV should be easily understandable and ready for styling in a future project.
+
+[https://roadmap.sh/projects/single-page-cv](http://https://roadmap.sh/projects/single-page-cv "https://roadmap.sh/projects/single-page-cv")
